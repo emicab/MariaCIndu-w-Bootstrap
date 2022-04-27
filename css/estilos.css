@@ -6,6 +6,6 @@
     background-color: #222 !important;
 }
 
-/* iframe{
-    width: 500px;
-} */
+.slide img{
+    height: 525px;
+}

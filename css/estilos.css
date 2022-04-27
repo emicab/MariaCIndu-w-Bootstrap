@@ -9,3 +9,22 @@
 .slide img{
     height: 525px;
 }
+
+.bg-card-subl{
+    background-image: url(../img/ej\ sublim.png);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+.bg-card-bord{
+    background-image: url(../img/ejbordado.jpg);
+    background-position: bottom;
+    background-size: cover;
+    height: 300px;
+}
+.bg-card-serig{
+    background-image: url(../img/serigrafia_textil.jpg);
+    background-position: bottom;
+    background-size: cover;
+    height: 300px;
+}
